@@ -1,7 +1,7 @@
 
-| 哈哈          |  照片  |
+| 简介          |  照片  |
 | :----------------------   | ------------------:  |
-| 计算机:joy:计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机计算机      |   ![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)     |
+| 哈哈:joy:这是我自己感兴趣做的一份简历，大家随便看看，指点指点   - 几点几分的  -股份的非官方      |   ![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)     |
 
 
 ***
