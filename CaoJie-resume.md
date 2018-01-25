@@ -7,7 +7,7 @@
 ***
 # 自我介绍
  - Caojie/女/1994 
- - 邮箱：<1752272883@qq.com>
+ - 邮箱：1752272883@qq.com
  - 本科/河北工业大学/软件工程专业
  - 工作年限：1.5年
  - 期望职位：java工程师，全栈工程师
@@ -22,8 +22,8 @@
 Web服务器  |  Apache tomcat  |nginx
 关系型数据库  |MySql SQL Server Jdbc  |  oracle
 非关系型数据库  |  暂时没有  | redis，mongodb，nosql
-前端  |  javascript，jquery，html，css，ajax，json，bootstrap，echarts，threejs  |  layui
-工具  | eclipse，maven，svn，npm，Intellij IDEA，rose，webstorm，python  |   git
+前端  |  javascript，jquery，html，css，ajax，json，bootstrap，echarts，threejs，jqgrid  |  layui
+工具  | eclipse，maven，svn，npm，Intellij IDEA，rose，webstorm，pycharm，Xshell，WinSCP  |   git
 
 ***
 # 项目经历
