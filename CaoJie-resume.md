@@ -1,8 +1,15 @@
 
 | 哈哈        | 简介   |  照片  |
 | :----------------------   | :-------------------:  | ------------------:  |
-| 计算机     | \$1600 |   ![image](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)     |
+| 计算机     | \$1600 |   ![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)     |
 :joy:
+<html>
+<font face="STLiti ">我是华文隶书</font>
+<font color=green>绿色字体</font>
+<font color=red size=8>8号红色字体</font>
+<table><tr><td bgcolor=Chocolate>巧克力色背景</td></tr></table>
+</html>
+
 ***
 # 个人信息
 <xxx@outlook.com>
