@@ -3,7 +3,7 @@
 | :----------------------   | :-------------------:  | ------------------:  |
 | 计算机     | \$1600 |   ![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)     |
 :joy:
-
+[说明文字](#jump)
 ***
 # > > > 个人信息
 <xxx@outlook.com>
@@ -21,3 +21,7 @@
 > * 撰写发布学术论文（LaTeX 公式支持）
 
 ***
+
+<html>
+	<span id = "jump">跳转到的位置</span>
+</html>
