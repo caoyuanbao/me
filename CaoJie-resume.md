@@ -23,14 +23,14 @@
 
 Web服务器  |  Apache tomcat  |nginx
 
-关系型数据库  |MySql SQL Server Jdbc  |  
+关系型数据库  |MySql SQL Server Jdbc  |  oracle
 
 非关系型数据库  |  暂时没有  | redis，mongodb，nosql
 
-前端  |  javascript，jquery，html，css，ajax，json，bootstrap，echarts，threejs
+前端  |  javascript，jquery，html，css，ajax，json，bootstrap，echarts，threejs  |  layui
 
-工具  | eclipse，maven，svn，git，Intellij IDEA，rose，webstorm
-python
+工具  | eclipse，maven，svn，Intellij IDEA，rose，webstorm
+python  |   git
 
 
 
