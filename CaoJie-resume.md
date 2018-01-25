@@ -13,7 +13,46 @@
  - 期望职位：java工程师，全栈工程师
  - 期望城市：北京
 ***
-# 技能标签
+# 技能标签表格
+
+技能  |  项目用过的   |   自学的
+---|---|---
+开源框架  |  Spring，设计模式，Mybatis，springMVC  |   SpringBoot
+分布式服务框架  |  暂时没用过  |  RESTful，spring cloud
+
+
+Web服务器  |  Apache tomcat  |nginx
+
+关系型数据库  |MySql SQL Server Jdbc  |  
+
+非关系型数据库  |  暂时没有  | redis，mongodb，nosql
+
+前端  |  javascript，jquery，html，css，ajax，json，bootstrap，echarts，threejs
+
+工具  | eclipse，maven，svn，git，Intellij IDEA，rose，webstorm
+python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ***
 # 项目经历
 ***
