@@ -3,8 +3,9 @@
 | :----------------------   | :-------------------:  | ------------------:  |
 | 计算机     | \$1600 |   ![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)     |
 :joy:
-[说明文字](#jump)
+
 ***
+[说明文字](#jump)
 # > > > 个人信息
 <xxx@outlook.com>
  - Caojie/女/1994 
