@@ -8,6 +8,7 @@
 <font color=green>绿色字体</font>
 <font color=red size=8>8号红色字体</font>
 <table><tr><td bgcolor=Chocolate>巧克力色背景</td></tr></table>
+<table><tr><td bgcolor=Chocolate>![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)</td></tr></table>
 </html>
 
 ***
