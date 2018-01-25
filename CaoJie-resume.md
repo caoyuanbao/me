@@ -19,39 +19,11 @@
 ---|---|---
 开源框架  |  Spring，设计模式，Mybatis，springMVC  |   SpringBoot
 分布式服务框架  |  暂时没用过  |  RESTful，spring cloud
-
-
 Web服务器  |  Apache tomcat  |nginx
-
 关系型数据库  |MySql SQL Server Jdbc  |  oracle
-
 非关系型数据库  |  暂时没有  | redis，mongodb，nosql
-
 前端  |  javascript，jquery，html，css，ajax，json，bootstrap，echarts，threejs  |  layui
-
-工具  | eclipse，maven，svn，Intellij IDEA，rose，webstorm
-python  |   git
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+工具  | eclipse，maven，svn，Intellij IDEA，rose，webstorm，python  |   git
 
 ***
 # 项目经历
