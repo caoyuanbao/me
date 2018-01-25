@@ -1,6 +1,12 @@
 ![image](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)
 ![image](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)
 ![image](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)
+
+| 哈哈        | 简介   |  照片  |
+| :--------   | :-----:  | -----:  |
+| 计算机     | \$1600 |   https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true     |
+| 手机        |   \$12   |   12   |
+| 管线        |    \$1    |  234  |
 :bowtie:
 # 个人信息
 <xxx@outlook.com>
@@ -14,5 +20,5 @@
 
 > * 整理知识，学习笔记
 > * 发布日记，杂文，所见所想
-> * 撰写发布技术文稿（代码支持）
-> * 撰写发布学术论文（LaTeX 公式支持）
+> 撰写发布技术文稿（代码支持）
+> 撰写发布学术论文（LaTeX 公式支持）
