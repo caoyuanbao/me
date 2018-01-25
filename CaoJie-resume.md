@@ -17,7 +17,7 @@
 
 技能  |  项目用过的   |   自学的
 ---|---|---
-开源框架  |  Spring，设计模式，Mybatis，springMVC  |   SpringBoot
+开源框架  |  Spring，设计模式，Mybatis，springMVC，shiro  |   SpringBoot
 分布式服务框架  |  暂时没用过  |  RESTful，spring cloud
 Web服务器  |  Apache tomcat  |nginx
 关系型数据库  |MySql SQL Server Jdbc  |  oracle
