@@ -4,11 +4,11 @@
 | 计算机     | \$1600 |   ![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)     |
 :joy:
 <html>
-<font face="STLiti ">我是华文隶书</font>
-<font color=green>绿色字体</font>
-<font color=red size=8>8号红色字体</font>
-<table><tr><td bgcolor=Chocolate>巧克力色背景</td></tr></table>
-<table><tr><td bgcolor=Chocolate>![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)</td></tr></table>
+<font face="STLiti">我是华文隶书</font>
+<font color="green">绿色字体</font>
+<font color="red" size="8">8号红色字体</font>
+<table><tr><td bgcolor="Chocolate">巧克力色背景</td></tr></table>
+<table><tr><td bgcolor="Chocolate">![Caojie](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)</td></tr></table>
 </html>
 
 ***
