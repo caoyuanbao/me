@@ -2,8 +2,6 @@
 | 哈哈        | 简介   |  照片  |
 | :----------------------   | :-------------------:  | ------------------:  |
 | 计算机     | \$1600 |   ![image](https://github.com/caoyuanbao/me/blob/master/ilike.gif?raw=true)     |
-| 手机        |   \$12   |   12   |
-| 管线        |    \$1    |  234  |
 :bowtie:
 # 个人信息
 <xxx@outlook.com>
