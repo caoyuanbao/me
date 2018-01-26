@@ -32,11 +32,19 @@ Web服务器  |  Apache tomcat  |nginx
 > >职责范围：全栈。前端HTML，CSS，javascript，jquery，ajax，JSTL，bootstrap，jcrop，jqgrid；后端java，springmvc；数据库：mysql。
 
 ### 3d模型上传与展示系统 
+<<<<<<< HEAD
 > >项目描述：3d模型上传与展示，主要用到ssm + maven + npm + javascript + webstorm。 
 > >职责范围：全栈。
 
 ### 3d模型后台管理系统 
 > >项目描述：模型管理系统，特点是智能看板，用echarts。 
+=======
+> >项目描述：基于java开发的公司工时管理系统，包括工时管理，项目管理，员工管理，数据字典等。 
+> >职责范围：全栈。
+
+### 3d模型后台管理系统 
+> >项目描述：基于java开发的公司工时管理系统，包括工时管理，项目管理，员工管理，数据字典等。 
+>>>>>>> d6eabea15fbf89f180cfad36177019b4b131b3a9
 > >职责范围：全栈。
 ***
 # 大学综述
